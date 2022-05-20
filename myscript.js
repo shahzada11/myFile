@@ -1,1 +1,1 @@
-document.querySelector("body").style.backgroundColor = "green";
+alert("Hello")
